@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 0977f5aca08c2422c92bdfdf38045617
+SketchUpImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 55cd1a92d95264e7ca7e60b6abfd437a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house-2
+    second: {fileID: 2100000, guid: 778539a07f0ee4d30a2171af5c81c5e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house-2-1
+    second: {fileID: 2100000, guid: 91db52281ee4f4f1d8ba5d0fdaa75a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house-2-2
+    second: {fileID: 2100000, guid: 5b790f4a8d2c94957963c410f9865526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house-2-3
+    second: {fileID: 2100000, guid: 114c16bd0f73249428dbd0fa5fe20ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house1
+    second: {fileID: 2100000, guid: 0fc659c8c8af541378fcbb257dbf3955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house1-2
+    second: {fileID: 2100000, guid: b4b753ea1469c47469f36f204edcafb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-1
+    second: {fileID: 2100000, guid: 03f99ccc555aa489284b3fbaef19c03d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-2
+    second: {fileID: 2100000, guid: 71579f5cb08284d1abb504c56c84fc5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-3
+    second: {fileID: 2100000, guid: b51cb6e9e2f474c3c865bf5380ff23db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-4
+    second: {fileID: 2100000, guid: a984a5cc70f324540978a352960e6ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-5
+    second: {fileID: 2100000, guid: fe8099bf3e5bb4cf5a560b8a5627e796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house3-6
+    second: {fileID: 2100000, guid: c213c7f3fdcd0465d94434415117a396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower1
+    second: {fileID: 2100000, guid: 1c3a4194e6e014c57b324ba77757149e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower1-2
+    second: {fileID: 2100000, guid: db10ecdf8af2e4b3a94cbc4baaff484b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower1-3
+    second: {fileID: 2100000, guid: a74a5650c583c4ecf84a1899d15faf57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower1-4
+    second: {fileID: 2100000, guid: 0208a56724133419083be34b5a196a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower2
+    second: {fileID: 2100000, guid: 0484add1155094ddba0fc204822d2adb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower2-3
+    second: {fileID: 2100000, guid: b52d6675b03224b90a16be8782895a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower4
+    second: {fileID: 2100000, guid: de05b10e646f14081b9a19a28821b0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower4-1
+    second: {fileID: 2100000, guid: 09ebd424e4ff5424bbd89727748c429d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower4-2
+    second: {fileID: 2100000, guid: 9eac8fa451d4e492cb149900ce5641c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tower4-3
+    second: {fileID: 2100000, guid: be56df6c539ee48a4a8d3875f4391f9f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house-2
+    second: {fileID: 2800000, guid: f3e6874cef8ef47fc867fc16f1f07bc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house-2-1
+    second: {fileID: 2800000, guid: 0f8b8657a83e6487cb7d6c910b83d24e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house-2-2
+    second: {fileID: 2800000, guid: e86c1f24376834ae6b2f7b54446d6ba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house-2-3
+    second: {fileID: 2800000, guid: ff67fd1f4727a4f708bb5f7aa8670183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house1
+    second: {fileID: 2800000, guid: 5554952d1fc3a40c69d033b8f145fef4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house1-2
+    second: {fileID: 2800000, guid: 56c05457505334ac983babd74c866aac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-1
+    second: {fileID: 2800000, guid: 07a161e800dad4efead4eeedd8c346e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-2
+    second: {fileID: 2800000, guid: a8f70f9d0f10d4b11b3d0ee69a6e607a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-3
+    second: {fileID: 2800000, guid: 77737a36b3cf64965bfc3f2e8ba83ef2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-4
+    second: {fileID: 2800000, guid: c0ddb20ea3b114f1e95e7a906f13f169, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-5
+    second: {fileID: 2800000, guid: d570c6e28f7584bf098e8e9912a1a9ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: house3-6
+    second: {fileID: 2800000, guid: 28cc770ea54554f95bcd456374dad3a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower1
+    second: {fileID: 2800000, guid: e07ec15e0a7144729b3124b3f28bba25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower1-1
+    second: {fileID: 2800000, guid: 4759eafd9c3f145718061ef58bdfee58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower1-2
+    second: {fileID: 2800000, guid: a854a128ef1664a7eadd8c09288a1ee6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower1-3
+    second: {fileID: 2800000, guid: fa54604b179b54225ac6b85db8e863ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower2
+    second: {fileID: 2800000, guid: 2d06f1a6dd3254311a99a4ce7c0952a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower2-1
+    second: {fileID: 2800000, guid: 700be67ebce6b471fb1f2c55f2dab7c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower4
+    second: {fileID: 2800000, guid: a11e9f0158f6644a5bdc859e3fc5e26d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower4-1
+    second: {fileID: 2800000, guid: 419d68c4248104bc7864e4ac6ab5942f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower4-2
+    second: {fileID: 2800000, guid: d291903654f4d4483b9c44b46a1500e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tower4-3
+    second: {fileID: 2800000, guid: 5d3ccb02826f145238811b362c6e7d74, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 35b1f357928f2bb665b7b9b1ee0c2d41
+  fileUnit: 0

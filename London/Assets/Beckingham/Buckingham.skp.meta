@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 730bb9f2844664541abcfcab8d027520
+SketchUpImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23532003_06bbe14ac6_o
+    second: {fileID: 2100000, guid: e54b79205016a473dafcd93288dd6bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5564890707_dcdec400c6_o2
+    second: {fileID: 2100000, guid: 69cc961f161054a5c9f306ac3c141645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 96,96,96
+    second: {fileID: 2100000, guid: 866652e8cea434bf88009c74f8fec97d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckingham
+    second: {fileID: 2100000, guid: cc2aa12e61ca34995905ae335c02017b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckingham2
+    second: {fileID: 2100000, guid: 303a17dc5f7294d9aac693d51f1814eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckingham3
+    second: {fileID: 2100000, guid: 3610f30c9d6184facb19bb0c7a610d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckingham4
+    second: {fileID: 2100000, guid: 29219a97863ce40a699eaf4542200ba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2100000, guid: cc6898382237d4c95ba3b2cc38fb1bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot#1
+    second: {fileID: 2100000, guid: 21e07ceb066b94e478e0a9b9db91fec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: dda225b86dcb447ce86e9d39eb7e5469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Cladding_Stucco_White]'
+    second: {fileID: 2100000, guid: e4719e59dae5f4632a31990abc96686d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_B24]'
+    second: {fileID: 2100000, guid: a9afc32ffe925402fac5dff5acdeade0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Concrete_Block_8x8_Gray]'
+    second: {fileID: 2100000, guid: d3330a6d9b015442ea538668772899d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Beige_1
+    second: {fileID: 2100000, guid: 26bef85a9697048e293b1e3124cfcb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 5377f4843f15c4b83a609117a66acb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightGray_
+    second: {fileID: 2100000, guid: 3754df10565214a83b5e300cc59294c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 74211c8f0c9e640febee9cbf33f2943e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: british-flag
+    second: {fileID: 2100000, guid: 5c198e8e54dd740feb3015c423fd2be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jean blue
+    second: {fileID: 2100000, guid: b63c2afa013114c008dc1848b1d024ec, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Dokumenter_Downloads_23532003_06bbe14ac6_o
+    second: {fileID: 2800000, guid: 2d5226e2a0f5e4de3b905ad128acf247, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Dokumenter_Downloads_5564890707_dcdec400c6_o2
+    second: {fileID: 2800000, guid: e38546593b7714562ac4ede753c41d09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Dokumenter_Downloads_Buckingham
+    second: {fileID: 2800000, guid: 9e0276e1fb1c5440b818377b1d941461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Skrivebord_Buckingham_Buckingham2_tint0x8A8C8CFF
+    second: {fileID: 2800000, guid: f0e1750f0e4de4af1b281f2c8af11c97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Skrivebord_Buckingham_Buckingham3_tint0x787C7FFF
+    second: {fileID: 2800000, guid: 6303b8c5ca99241c591c4985f0f6b355, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Skrivebord_Buckingham_Buckingham4_tint0x938777FF
+    second: {fileID: 2800000, guid: 72a35aa6372bb4f089cfc7b68dab4005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Documents and Settings_mads_Skrivebord_british-flag
+    second: {fileID: 2800000, guid: 78615b6a8e93645689da6a23da0e1cfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cladding_Stucco_White
+    second: {fileID: 2800000, guid: 1c391238b5c5d4714a7ae6a2bdd25420, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Block_8x8_Gray_tint0x9C9791FF
+    second: {fileID: 2800000, guid: c3ba01a3d912a4161b42775a4ec640d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2800000, guid: 3c9b12ae9bc8f41e1b75682a09ed28dc, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000a0000000b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9d1377cfcb1a16b30fce09d216ee3688
+  fileUnit: 0
